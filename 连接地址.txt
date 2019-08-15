@@ -1,0 +1,23 @@
+https://github.com/king-a/onefirs.git
+
+
+echo¡°#onefirs¡±>> README.md 
+git init 
+git add README.md 
+git commit -m¡°first commit¡± 
+git remote add origin https://github.com/king-a/onefirs.git
+ git push -u origin master
+
+
+
+git remote add origin https://github.com/king-a/onefirs.git
+ git push -u origin master
+
+
+
+
+
+
+
+
+
